@@ -1,0 +1,7 @@
+List of required assets to upload to Thunkable...
+
+favicon.png         Circular fox app icon
+fox_screen.png      Vertical fox image with blue background
+menu.mp3            Menu music (Clubbed to Death megadrive remix)
+menu_bg.png         720p background with pipes
+splash.png          Splash screen with Black Mesa Crepe Facility logo and RSPCA logo on white background

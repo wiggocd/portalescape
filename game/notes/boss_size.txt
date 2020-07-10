@@ -1,0 +1,2 @@
+Original:   600x600
+Small:      192x192

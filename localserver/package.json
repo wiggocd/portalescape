@@ -1,0 +1,16 @@
+{
+  "name": "portalescape_localserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "localserver.js",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "localserver": "node localserver.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

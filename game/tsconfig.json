@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es2015",
+        "noImplicitAny": false,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "./bin"
+    },
+    "exclude": [
+        "./node_modules",
+        "./src",
+        "./bin",
+        "./android_build",
+        "./server",
+        "./adb"
+    ],
+    "include": [
+        
+    ],
+    "files": [
+        // "./node_modules/phaser3-docs/typescript/phaser.d.ts",
+        "./types/phaser.d.ts",
+        "./src/main.ts",
+        "./src/global.ts",
+        "./src/config.ts",
+        "./src/scene.ts"
+    ],
+}

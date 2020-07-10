@@ -1,0 +1,1 @@
+I/chromium( 7257): [INFO:async_pixel_transfer_manager_android.cc(56)] Async pixel transfers not supported

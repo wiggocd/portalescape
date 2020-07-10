@@ -1,0 +1,20 @@
+{
+  "name": "portalescape_game",
+  "version": "1.0.0",
+  "description": "portalescape is a 2D platforming game - you, the fox must escape a testing facility using only your portal gun.",
+  "main": "newgame.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "apex"
+  ],
+  "author": "Christian Wiggins",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "3.16.2",
+    "typescript": "^3.9.6"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,37 @@
+﻿The Black Mesa Crepe Facility Game Team 2019.
+
+FunkoFox: Escape The Facility
+
+This is the Open Schools Coding Competition submission for Frensham Heights School Group KWP:
+Christian Wiggins: Programming / organisation
+Ayaan Asif: Art / Graphic design
+Harry Constable: Organisation
+Theo Glassbrook: Research
+Ale Massalin: Paperwork / communication
+
+Please view the info.txt or https://apex-escape.appspot.com/about.html to be informed...
+
+//////
+
+Our team name is The Black Mesa Crepe Facility, and our submission is a game called FunkoFox: Escape The Facility - a 2D platformer. It's roughly links to animal rights and supports our charity of the RSPCA!
+Please view the powerpoints and documents in this directory for more info, or feel free to browse to https://apex-escape.appspot.com/about.html.
+Please note: The game has 8 total levels, so please don't be deceived by the first level - we encourage you to play the full game!
+
+//////
+
+To run the game (iOS only), feel free to install this Thunkable X project on iOS:
+https://x.thunkable.com/projects/5cc44d37e341ad2f1fa27f62/
+
+Please note: when running the Thunkable app, to run the game itself, please use your device as if it were landscape. It will show as portrait in emulators, so please run the game on a physical device. This is due to Thunkable X not officially supporting landscape orientation, so the webviewer is custom rotated to work on real devices :)
+
+Cross-platform unfortunately does not work also - the game currently runs on iOS only. The old Thunkable classic versions sadly don’t work, and the Thunkable X version for Android doesn’t work properly due to the web viewers incorrectly scaling. Please use the iOS version!
+
+//////
+
+
+The game itself is linked up to a Google Cloud server running the game programmed in TypeScript using the Phaser 3 game engine. The game is displayed using webviewers in Thunkable, and the Thunkable app is also used for the menus and linking to the RSPCA charity.
+
+Server: https://apex-escape.appspot.com/
+Tutorial: https://apex-escape.appspot.com/tutorial.html
+
+The game source in this archive is just for reference, but may be outdated. The game inside of the Thunkable X app will always link to https://apex-escape.appspot.com/ which should be up to date!
