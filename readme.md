@@ -1,6 +1,6 @@
 # portalescape / FunkoFox: Escape the Facility
 A 2D platformer in which you must escape a testing facility using only your portal gun - the game was made predominantly using typescript and the Phaser 3 game engine.
-Art done by the awesome Ayaan Asif and work done around the project by the brilliant Theo Glassbrook and Harry Constable-Barnes!
+Art done by the awesome Ayaan Asif and work done around the project by the brilliant Theo Glassbrook and Harry Constable-Barnes.
 
 ## Setup
 Please run `npm install` in the project root, localserver, and game directories individually.
